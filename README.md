@@ -16,9 +16,12 @@ The following script is based on the [example](https://frost.met.no/python_examp
 
 
 # Packages
-requests==2.26.0    
+requests==2.26.0   
+
 pandas==1.3.2
+
 xarray==0.17.0
+
 numpy==1.20.3
 
 --------------
