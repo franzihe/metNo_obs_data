@@ -14,5 +14,12 @@
 
 The following script is based on the [example](https://frost.met.no/python_example.html) provided by Frost documentation
 
+
+# Packages
+requests==2.26.0    
+pandas==1.3.2
+xarray==0.17.0
+numpy==1.20.3
+
 --------------
 Hellmuth, Franziska, (2021), Download observations from Frost, University of Oslo, Oslo, Norway. Contact: [franziska.hellmuth@geo.uio.no](franziska.hellmuth@geo.uio.no)
